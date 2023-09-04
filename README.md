@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=CarefreeLife!&color=gradient)
 
 <br><br>
@@ -83,3 +84,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - [9/4 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 1. 프로젝트 기획 및 업무 분담 / 전체 Architecture 구성](https://carefreelife98.github.io/cloud-wave-project/Project_Architecture/)
+ - [7/29 - [AWS] Public Cloud / Cloud Architecture](https://carefreelife98.github.io/cloud-wave-public/Public/)
+ - [7/22 - [CJOliveNetworks] Cloud Native &amp; Kubernetes 시작하기](https://carefreelife98.github.io/cloud-wave-kubernetes/Day23-Kubernetes/)
+ - [7/18 - [CJOliveNetworks] Kind를 이용한 쿠버네티스 로컬 설치](https://carefreelife98.github.io/cloud-wave-kubernetes/Kind%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EB%A1%9C%EC%BB%AC-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+ - [7/15 - [CJOliveNetworks] 도커 (Docker) 기초](https://carefreelife98.github.io/cloud-wave-virtualization/day16-Virtualization/)
+ - [7/9 - [CJOliveNetworks] Day 2 - NAT / AWS 기초](https://carefreelife98.github.io/cloud-wave/Day-2-NAT-AWS/)
