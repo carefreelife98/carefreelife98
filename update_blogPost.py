@@ -77,6 +77,15 @@ preREADME = """
 > <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
+
+
+
+
+
+
+
+
+
 <!--
 **carefreelife98/carefreelife98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -96,5 +105,5 @@ Here are some ideas to get you started:
 
 resultREADME = f"{preREADME}{latest_posts}"
 
-with open("README.md", "w", encoding='utf-8') as f :
-  f.write(resultREADME)
+with open("README.md", "w", encoding='utf-8') as f:
+    f.write(resultREADME)
