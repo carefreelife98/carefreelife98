@@ -12,12 +12,6 @@
 
 <br><br>
 
-## Blog
-<img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-[CarefreeLife's Blog](https://carefreelife98.github.io/)
-
-<br><br>
-
 ```
 🧑🏻‍💻 Once I've Used 🧑🏻‍💻
 ```
@@ -60,30 +54,13 @@
 > **Registry** <br>
 > <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br><br>
 
+## Blog
+<img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
+[CarefreeLife's Blog](https://carefreelife98.github.io/)
 
-
-
-
-
-
-
-
-
-<!--
-**carefreelife98/carefreelife98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 최근 게시된 글
 
  - [9/4 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 1. 프로젝트 기획 및 업무 분담 / 전체 Architecture 구성](https://carefreelife98.github.io/cloud-wave-project/Project_Architecture/)
  - [7/29 - [AWS] Public Cloud / Cloud Architecture](https://carefreelife98.github.io/cloud-wave-public/Public/)
