@@ -60,7 +60,7 @@
 > **Registry** <br>
 > <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## Latest Postings - 매 00:00 에 Github Actions 에 의해 Update 됩니다!!
+
 
 
 
