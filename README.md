@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - [9/5 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 2. Terraform / Terraform Cloud 를 활용한 Cloud Infra 구축 자동화](https://carefreelife98.github.io/cloud-wave-project/project2/)
- - [9/5 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 3-2. [CI/CD] Github Action - Docker / ArgoCD](https://carefreelife98.github.io/cloud-wave-project/project2_ci_githubActions_docker/)
- - [9/5 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 3-1. [Httpd, Spring Boot, Aurora MySQL] 3 Tier Web Application - Github Actions, Docker](https://carefreelife98.github.io/cloud-wave-project/webapp_docker/)
- - [9/4 - [CJOlivenetworks] CGV Fast Order 시스템 인프라 구축 1. 프로젝트 기획 및 업무 분담 / 전체 Architecture 구성](https://carefreelife98.github.io/cloud-wave-project/Project_Architecture/)
+ - [9/5 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 2. Terraform / Terraform Cloud 를 활용한 Cloud Infra 구축 자동화](https://carefreelife98.github.io/cloud-wave-project/project2/)
+ - [9/5 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 3-2. [CI/CD] Github Action - Docker / ArgoCD](https://carefreelife98.github.io/cloud-wave-project/project2_ci_githubActions_docker/)
+ - [9/5 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 3-1. [Httpd, Spring Boot, Aurora MySQL] 3 Tier Web Application - Github Actions, Docker](https://carefreelife98.github.io/cloud-wave-project/webapp_docker/)
+ - [9/4 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 1. 프로젝트 기획 및 업무 분담 / 전체 Architecture 구성](https://carefreelife98.github.io/cloud-wave-project/Project_Architecture/)
  - [7/29 - [AWS] Public Cloud / Cloud Architecture](https://carefreelife98.github.io/cloud-wave-public/Public/)
- - [7/22 - [CJOliveNetworks] Cloud Native &amp; Kubernetes 시작하기](https://carefreelife98.github.io/cloud-wave-kubernetes/Day23-Kubernetes/)
+ - [7/22 - [CJ Olivenetworks - Cloud Wave] Cloud Native &amp; Kubernetes 시작하기](https://carefreelife98.github.io/cloud-wave-kubernetes/Day23-Kubernetes/)
