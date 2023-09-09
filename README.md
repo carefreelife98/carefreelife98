@@ -8,7 +8,7 @@
 
 <br>
 
-[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98)](https://github.com/anuraghazra/github-readme-stats)
+[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -60,7 +60,9 @@
 > **Registry** <br>
 > <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br><br>
 
+<h1>Latest Post of My Blog!!</h1>
 
 
 
