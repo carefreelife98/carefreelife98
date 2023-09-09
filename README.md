@@ -8,7 +8,7 @@
 
 <br>
 
-[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98&show_icons=true&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)
+[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
