@@ -64,8 +64,6 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
-<br><br>
-
 
 
 
