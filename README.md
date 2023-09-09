@@ -8,7 +8,7 @@
 
 <br>
 
-[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98)](https://github.com/anuraghazra/github-readme-stats)
+[![Carefreelife's GitHub stats](https://github-readme-stats.vercel.app/api?username=carefreelife98&show_icons=true&theme=dracular)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
@@ -60,30 +60,9 @@
 > **Registry** <br>
 > <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<br><br>
 
-
-
-
-
-
-
-
-
-
-<!--
-**carefreelife98/carefreelife98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Latest Post of My Blog!!</h1>
 
  - [9/5 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 2. Terraform / Terraform Cloud 를 활용한 Cloud Infra 구축 자동화](https://carefreelife98.github.io/cloud-wave-project/project2/)
  - [9/5 - [CJ Olivenetworks - Cloud Wave] CGV Fast Order 시스템 인프라 구축 3-2. [CI/CD] Github Action - Docker / ArgoCD](https://carefreelife98.github.io/cloud-wave-project/project2_ci_githubActions_docker/)
