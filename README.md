@@ -64,9 +64,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [9/19 - Kotlin - val, var, const val 및 Basic Types](https://carefreelife98.github.io/kotlin/Kotlin_Types/)
  - [9/10 - [AWS-SAA] AWS Services](https://carefreelife98.github.io/aws-saa/AWS-Services/)
  - [9/10 - [AWS-SAA] Application](https://carefreelife98.github.io/aws-saa/Application/)
  - [9/10 - [AWS-SAA] Cost / Billing](https://carefreelife98.github.io/aws-saa/Cost-Billing/)
  - [9/10 - [AWS-SAA] IAM / Security](https://carefreelife98.github.io/aws-saa/IAM-Security/)
  - [9/10 - [AWS-SAA] Network](https://carefreelife98.github.io/aws-saa/Network/)
- - [9/10 - [AWS-SAA] Service 조합 문제](https://carefreelife98.github.io/aws-saa/Service-Combination/)
