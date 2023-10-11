@@ -66,7 +66,7 @@
 
  - [10/5 - Finding Features - Scale, Rotation, View Point](https://carefreelife98.github.io/inu-computervision/Rotation/)
  - [10/1 - Sequential Circuits (순차 회로)](https://carefreelife98.github.io/inu-computerarchitecture/SequentialCircuit/)
+ - [9/21 - Kotlin - 배열 (Array)](https://carefreelife98.github.io/kotlin/Kotlin_Array/)
  - [9/19 - Kotlin - 함수 &amp; Lambda Expression](https://carefreelife98.github.io/kotlin/Kotlin_Function/)
  - [9/19 - Kotlin - val, var, const val 및 Basic Types](https://carefreelife98.github.io/kotlin/Kotlin_Types/)
  - [9/10 - [AWS-SAA] AWS Services](https://carefreelife98.github.io/aws-saa/AWS-Services/)
- - [9/10 - [AWS-SAA] Application](https://carefreelife98.github.io/aws-saa/Application/)
