@@ -64,9 +64,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [10/29 - Map Simplification - Minterm / K-map / SOP / POS / 무관조건 (Don’t Care Condition)](https://carefreelife98.github.io/inu-computerarchitecture/minterm/)
  - [10/28 - Logic Gates, Boolean Algebra (Boolean Function)](https://carefreelife98.github.io/inu-computerarchitecture/chapter1-LogicGates/)
  - [10/5 - Finding Features - Scale, Rotation, View Point](https://carefreelife98.github.io/inu-computervision/Rotation/)
  - [10/1 - Sequential Circuits (순차 회로)](https://carefreelife98.github.io/inu-computerarchitecture/SequentialCircuit/)
  - [9/21 - Kotlin - 배열 (Array)](https://carefreelife98.github.io/kotlin/Kotlin_Array/)
  - [9/19 - Kotlin - 함수 &amp; Lambda Expression](https://carefreelife98.github.io/kotlin/Kotlin_Function/)
- - [9/19 - Kotlin - val, var, const val 및 Basic Types](https://carefreelife98.github.io/kotlin/Kotlin_Types/)
