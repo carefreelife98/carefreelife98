@@ -22,8 +22,6 @@
 🧑🏻‍💻 Once I've Used 🧑🏻‍💻
 ```
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carefreelife98&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Dev
 
 >
@@ -66,9 +64,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [11/8 - Basic Computer Organization and Design - Instruction Codes, Computer Registers](https://carefreelife98.github.io/inu-computerarchitecture/instructionCodes/)
  - [11/3 - Linear Models - Credit Approval / Perceptron / Pocket Algorithm / Linear Regression](https://carefreelife98.github.io/inu-computervision/linear-model/)
  - [11/1 - Kotlin - 추상 클래스 (Abstract Class) &amp; 인터페이스 (Interface)](https://carefreelife98.github.io/kotlin/Kotlin-AbstractClass_Interface/)
  - [11/1 - Kotlin - 클래스 (Class)](https://carefreelife98.github.io/kotlin/Kotlin_Class/)
  - [11/1 - Kotlin - Inheritance (상속)](https://carefreelife98.github.io/kotlin/Kotlin_Inheritance/)
  - [10/29 - Map Simplification - Minterm / K-map / SOP / POS / 무관조건 (Don’t Care Condition)](https://carefreelife98.github.io/inu-computerarchitecture/minterm/)
- - [10/28 - Logic Gates, Boolean Algebra (Boolean Function)](https://carefreelife98.github.io/inu-computerarchitecture/chapter1-LogicGates/)
