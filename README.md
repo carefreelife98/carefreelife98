@@ -22,8 +22,6 @@
 🧑🏻‍💻 Once I've Used 🧑🏻‍💻
 ```
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carefreelife98&layout=compact&theme=swift&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Dev
 
 >
