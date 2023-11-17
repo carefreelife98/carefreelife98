@@ -66,9 +66,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [11/16 - Basic Computer Organization and Design - (Example) Increment / Add](https://carefreelife98.github.io/inu-computerarchitecture/basicComputerDesignEx/)
  - [11/14 - Basic Computer Organization and Design - Design of Basic Computer](https://carefreelife98.github.io/inu-computerarchitecture/designOfBasicComputer/)
  - [11/14 - Basic Computer Organization and Design - Input / Output and Interrupt](https://carefreelife98.github.io/inu-computerarchitecture/interrupt/)
  - [11/14 - Android - 배열 (Array)](https://carefreelife98.github.io/inu-mobilesoftware/kotlin/androidArray/)
  - [11/11 - Basic Computer Organization and Design - Timing and Control (Instruction Cycle, Memory 참조 명령어, Register 참조 명령어)](https://carefreelife98.github.io/inu-computerarchitecture/timingAndControl/)
  - [11/8 - Basic Computer Organization and Design - Instruction Codes, Computer Registers](https://carefreelife98.github.io/inu-computerarchitecture/instructionCodes/)
- - [11/3 - Linear Models - Credit Approval / Perceptron / Pocket Algorithm / Linear Regression](https://carefreelife98.github.io/inu-computervision/linear-model/)
