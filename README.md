@@ -66,9 +66,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [11/21 - Micro-programmed Control - Micro-Instruction Format, Symbols and Binary Code for Microoperation Fields, Symbolic Micro-Program](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControlEx/)
  - [11/18 - Micro-programmed Control - Control Memory, Control Address Register (CAR), Address Sequencing](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControl/)
  - [11/18 - Artificial Neural Networks - Multilayer Perceptron(MLP), Softmax Function, Forward / Backward Propagation, Error measures](https://carefreelife98.github.io/inu-computervision/artificialNeuralNetworks/)
  - [11/16 - Basic Computer Organization and Design - (Example) Increment / Add](https://carefreelife98.github.io/inu-computerarchitecture/basicComputerDesignEx/)
  - [11/14 - Basic Computer Organization and Design - Design of Basic Computer](https://carefreelife98.github.io/inu-computerarchitecture/designOfBasicComputer/)
  - [11/14 - Basic Computer Organization and Design - Input / Output and Interrupt](https://carefreelife98.github.io/inu-computerarchitecture/interrupt/)
- - [11/14 - Android - 배열 (Array)](https://carefreelife98.github.io/inu-mobilesoftware/kotlin/androidArray/)
