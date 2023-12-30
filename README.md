@@ -66,9 +66,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
+ - [12/28 - [Naver Clova OCR API &amp; Google Sheet API] Carefree OCR 2 - 우체국 등기 영수증 / 사업자 등록증 자동 관리 시스템](https://carefreelife98.github.io/toy-project/carefreeOCR2/)
  - [12/2 - [Naver Clova OCR API] Carefree OCR](https://carefreelife98.github.io/toy-project/carefreeOCR/)
  - [11/30 - Central Processing Unit - Instruction Format / Addressing modes / Subroutine Call and Return / Reduced Instruction Set Computer (RISC)](https://carefreelife98.github.io/inu-computerarchitecture/cpu/)
  - [11/23 - Micro-programmed Control - Example](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControlEX1/)
  - [11/21 - Micro-programmed Control - Micro-Instruction Format, Symbols and Binary Code for Microoperation Fields, Symbolic Micro-Program](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControlEx/)
  - [11/18 - Micro-programmed Control - Control Memory, Control Address Register (CAR), Address Sequencing](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControl/)
- - [11/18 - Artificial Neural Networks - Multilayer Perceptron(MLP), Softmax Function, Forward / Backward Propagation, Error measures](https://carefreelife98.github.io/inu-computervision/artificialNeuralNetworks/)
