@@ -66,9 +66,9 @@
 
 <h1>Latest Post of My Blog!!</h1>
 
- - [12/28 - [Naver Clova OCR API &amp; Google Sheet API] Carefree OCR 2 - 우체국 등기 영수증 / 사업자 등록증 자동 관리 시스템](https://carefreelife98.github.io/toy-project/carefreeOCR2/)
- - [12/2 - [Naver Clova OCR API] Carefree OCR](https://carefreelife98.github.io/toy-project/carefreeOCR/)
- - [11/30 - Central Processing Unit - Instruction Format / Addressing modes / Subroutine Call and Return / Reduced Instruction Set Computer (RISC)](https://carefreelife98.github.io/inu-computerarchitecture/cpu/)
- - [11/23 - Micro-programmed Control - Example](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControlEX1/)
- - [11/21 - Micro-programmed Control - Micro-Instruction Format, Symbols and Binary Code for Microoperation Fields, Symbolic Micro-Program](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControlEx/)
- - [11/18 - Micro-programmed Control - Control Memory, Control Address Register (CAR), Address Sequencing](https://carefreelife98.github.io/inu-computerarchitecture/microProgrammedControl/)
+ - [6/24 - [Spring Basic] Spring - 컴포넌트 스캔 (Component Scan) 이란 ?](https://carefreelife98.github.io/spring-basic/spring_componentScan/)
+ - [5/1 - [2024 INU CSE 졸업작품] Smart Barricade: 우회전 교통사고 방지를 위한 전자 방지턱 시스템 (Spring Boot, Thymeleaf, Docker, Kafka, YoloV8, OpenCV)](https://carefreelife98.github.io/inu-capstone/capstone-admin-server/)
+ - [4/22 - [Capstone Design] Docker 통해서 Kafka, ZooKeeper 1시간 만에 사용해보기 (매우 간단, M1 Mac)](https://carefreelife98.github.io/inu-capstone/capstone-docker-kafka-intro/)
+ - [3/24 - [Capstone Design] 스마트 방지턱 - 실시간 객체 탐지 및 속력 구하기 (YOLOv8, Supervision)](https://carefreelife98.github.io/inu-capstone/capstoneCalcVelocity/)
+ - [3/10 - [Spring Basic] Spring Configuration - 설정 정보 구성](https://carefreelife98.github.io/spring-basic/spring_configuration/)
+ - [3/10 - [Spring Basic] Spring Singleton - 싱글톤 디자인 패턴 (스프링 컨테이너) 및 주의점](https://carefreelife98.github.io/spring-basic/spring_singleton/)
