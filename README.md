@@ -47,7 +47,7 @@
 ### Frontend
 >
 > **Programming Languages** <br>
-> <img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+> <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ## Ops
 > 
