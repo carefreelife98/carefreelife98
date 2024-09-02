@@ -26,6 +26,7 @@
 
 ## Dev
 
+### Backend
 >
 > **Programming Languages** <br>
 > <img src="https://img.shields.io/badge/JAVA-E6522C?style=for-the-badge&logo=java&logoColor=white">
@@ -42,6 +43,11 @@
 > <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 > <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
 > <img src="https://img.shields.io/badge/TerraformCloud-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> <br>
+
+### Frontend
+>
+> **Programming Languages** <br>
+> <img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 ## Ops
 > 
