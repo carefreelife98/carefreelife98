@@ -32,9 +32,12 @@
 > <img src="https://img.shields.io/badge/JAVA-E6522C?style=for-the-badge&logo=java&logoColor=white">
 > <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 > 
-> **Database** <br>
+> **Database / Storage** <br>
 > <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 > <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+> <img src="https://img.shields.io/badge/Couchbase-grey?logo=couchbase&logoColor=white">
+> <img src="https://img.shields.io/badge/redis-red?logo=redis&logoColor=white">
+> <img src="https://img.shields.io/badge/memcached-yellow?logo=memcached&logoColor=white">
 > 
 > **FrameWork** <br>
 > <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -46,6 +49,12 @@
 >
 > **Message Queue** <br>
 > <img src="https://img.shields.io/badge/kafka-skyblue?logo=apachekafka&logoColor=white">
+>
+> **Object Detecting** <br>
+> <img src="https://img.shields.io/badge/OpenCV-orange?logo=opencv&logoColor=white">
+> <img src="https://img.shields.io/badge/YoloV8-grey?logo=yolo&logoColor=white">
+
+
 
 
 ### Frontend
