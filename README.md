@@ -43,11 +43,22 @@
 > <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 > <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
 > <img src="https://img.shields.io/badge/TerraformCloud-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> <br>
+>
+> **Message Queue** <br>
+> <img src="https://img.shields.io/badge/kafka-skyblue?logo=apachekafka&logoColor=white">
+
 
 ### Frontend
 >
 > **Programming Languages** <br>
 > <img src="https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=white">
+> <img src="https://img.shields.io/badge/typescript-skyblue?logo=typescript&logoColor=white">
+>
+> **Library** <br>
+> <img src="https://img.shields.io/badge/react-skyblue?logo=react&logoColor=white">
+>
+> **Runtime env** <br>
+> <img src="https://img.shields.io/badge/node.js-green?logo=node&logoColor=white">
 
 ## Ops
 > 
