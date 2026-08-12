@@ -89,6 +89,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [프레임워크는 문서대로 움직이지 않는다 — 에이전트 기본값과의 씨름](https://www.carefreelab.cloud/posts/agent-dev-03-framework)
+- [에이전트는 지금 뭘 하고 있는가 — 실행 가시성과 Progress Chain](https://www.carefreelab.cloud/posts/agent-dev-04-visibility)
+- [&quot;느리다&quot;를 해부하다 — 4노드에서 6단계로, 검색 파이프라인 성능 개선 여정](https://www.carefreelab.cloud/posts/search-dev-02-performance)
+- [검색을 넘어 조회로 — 계획하는 LLM, 실행하는 규칙, FlowData 오케스트레이터](https://www.carefreelab.cloud/posts/search-dev-03-flowdata)
+- [AI 채팅이 노트북 팬을 돌린다 — SSE 렌더링 CPU 과다의 4중 원인](https://www.carefreelab.cloud/posts/streaming-01-diagnosis)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
