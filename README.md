@@ -104,6 +104,22 @@
   <img src="https://raw.githubusercontent.com/CarefreeLife98/CarefreeLife98/main/metrics.svg" alt="GitHub metrics">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=carefreelife98&theme=dark&hide_border=true" alt="GitHub streak stats" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carefreelife98&theme=react-dark&hide_border=true" alt="GitHub activity graph">
+</p>
+
+<details>
+<summary>🧊 3D Contribution Calendar</summary>
+<br>
+
+<img alt="3d contribution calendar" src="https://raw.githubusercontent.com/CarefreeLife98/CarefreeLife98/main/profile-3d-contrib/profile-night-view.svg">
+
+</details>
+
 <details>
 <summary>🐍 Contribution Snake</summary>
 <br>
