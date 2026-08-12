@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=carefreelife98&theme=dark&hide_border=true" alt="GitHub streak stats" height="165">
+  <img src="https://raw.githubusercontent.com/CarefreeLife98/CarefreeLife98/main/streak-stats.svg" alt="GitHub streak stats" height="165">
 </p>
 
 <p align="center">
