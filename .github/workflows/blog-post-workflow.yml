@@ -17,5 +17,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v2
         with:
-          feed_list: "https://carefreelife98.github.io/feed.xml"
+          feed_list: "https://www.carefreelab.cloud/feed.xml"
           max_post_count: 5
