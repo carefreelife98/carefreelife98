@@ -89,11 +89,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [프레임워크는 문서대로 움직이지 않는다 — 에이전트 기본값과의 씨름](https://www.carefreelab.cloud/posts/agent-dev-03-framework)
-- [에이전트는 지금 뭘 하고 있는가 — 실행 가시성과 Progress Chain](https://www.carefreelab.cloud/posts/agent-dev-04-visibility)
-- [&quot;느리다&quot;를 해부하다 — 4노드에서 6단계로, 검색 파이프라인 성능 개선 여정](https://www.carefreelab.cloud/posts/search-dev-02-performance)
-- [검색을 넘어 조회로 — 계획하는 LLM, 실행하는 규칙, FlowData 오케스트레이터](https://www.carefreelab.cloud/posts/search-dev-03-flowdata)
-- [AI 채팅이 노트북 팬을 돌린다 — SSE 렌더링 CPU 과다의 4중 원인](https://www.carefreelab.cloud/posts/streaming-01-diagnosis)
+- [zod 스키마가 OpenAI strict 모드에서 터지는 4가지 패턴](https://www.carefreelab.cloud/posts/llm-ts-01-zod-strict)
+- [고쳤는데 또 터졌다: 스키마 재발과 드리프트, 그리고 단일 소스](https://www.carefreelab.cloud/posts/llm-ts-02-recurrence)
+- [이모지 반쪽이 API를 400으로 만든다: LLM 트러블 단편 3제](https://www.carefreelab.cloud/posts/llm-ts-03-shorts)
+- [계약이 곧 코드다: contract 패키지와 zod v4 원자 이행](https://www.carefreelab.cloud/posts/sdk-dev-07-contract)
+- [npm scope를 남이 갖고 있었다: registry 이관과 토큰의 정치학](https://www.carefreelab.cloud/posts/sdk-dev-08-registry)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
