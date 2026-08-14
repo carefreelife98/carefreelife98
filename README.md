@@ -89,11 +89,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [만드는 것과 지키는 것: 에이전트 서비스 운영기](https://www.carefreelab.cloud/posts/agent-dev-05-operations)
+- [운영하며 고친 것들: 조사로 검색한 버그, 상한의 철학, 모델 교체](https://www.carefreelab.cloud/posts/search-dev-04-operations)
 - [zod 스키마가 OpenAI strict 모드에서 터지는 4가지 패턴](https://www.carefreelab.cloud/posts/llm-ts-01-zod-strict)
 - [고쳤는데 또 터졌다: 스키마 재발과 드리프트, 그리고 단일 소스](https://www.carefreelab.cloud/posts/llm-ts-02-recurrence)
 - [이모지 반쪽이 API를 400으로 만든다: LLM 트러블 단편 3제](https://www.carefreelab.cloud/posts/llm-ts-03-shorts)
-- [계약이 곧 코드다: contract 패키지와 zod v4 원자 이행](https://www.carefreelab.cloud/posts/sdk-dev-07-contract)
-- [npm scope를 남이 갖고 있었다: registry 이관과 토큰의 정치학](https://www.carefreelab.cloud/posts/sdk-dev-08-registry)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
