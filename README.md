@@ -89,11 +89,11 @@
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [만드는 것과 지키는 것: 에이전트 서비스 운영기](https://www.carefreelab.cloud/posts/agent-dev-05-operations)
-- [운영하며 고친 것들: 조사로 검색한 버그, 상한의 철학, 모델 교체](https://www.carefreelab.cloud/posts/search-dev-04-operations)
-- [zod 스키마가 OpenAI strict 모드에서 터지는 4가지 패턴](https://www.carefreelab.cloud/posts/llm-ts-01-zod-strict)
-- [고쳤는데 또 터졌다: 스키마 재발과 드리프트, 그리고 단일 소스](https://www.carefreelab.cloud/posts/llm-ts-02-recurrence)
-- [이모지 반쪽이 API를 400으로 만든다: LLM 트러블 단편 3제](https://www.carefreelab.cloud/posts/llm-ts-03-shorts)
+- [자연어 한 줄로 워크플로우 그리기: Planner를 다섯 노드로 다시 짓다](https://www.carefreelab.cloud/posts/wf-dev-04-planner)
+- [같은 노드가 두 번 실행됐다: LangGraph super-step과 defer](https://www.carefreelab.cloud/posts/wf-dev-05-superstep)
+- [에러 없이 멈춘 실행: Connection closed, 세 가설의 반증](https://www.carefreelab.cloud/posts/wf-dev-06-hang)
+- [AI 에이전트 42개에게 내 코드를 리뷰시켰다: 8차원 코드리뷰](https://www.carefreelab.cloud/posts/wf-dev-07-review)
+- [스무 개의 노드로 아침을 자동화하다: 빌더가 쓸모를 증명한 날](https://www.carefreelab.cloud/posts/wf-dev-08-usecase)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
